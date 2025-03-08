@@ -1,0 +1,87 @@
+{
+  "version": "1.0",
+  "themeOverrides": {
+    "primaryColor": "finnColorTheme",
+    "colors": {
+      "finnColorTheme": [
+        "#FCDEBE",
+        "#E8D8B2",
+        "#D4D2A5",
+        "#B3AD8F",
+        "#928779",
+        "#786F71",
+        "#5E5768",
+        "#4C4E63",
+        "#434960",
+        "#3A445D"
+      ]
+    },
+    "defaultRadius": "xs",
+    "fontFamily": "'Work Sans', sans-serif",
+    "headings": {
+      "fontFamily": "'Work Sans', sans-serif",
+      "fontWeight": 300
+    },
+    "white": "#FFFFFF",
+    "black": "#131A2A",
+    "other": {
+      "customDarkNavy": "#131A2A",
+      "customLightBeige": "#FCF8F1",
+      "customLightBlue": "#6F96D1",
+      "customTone01": "#EFF4FA",
+      "customTone02": "#D0DDF0",
+      "customTone03": "#B1C7E7",
+      "customTone04": "#92B0DD",
+      "defaultFontWeight": "100",
+      "forceColorScheme": "light"
+    },
+    "components": {
+      "Accordion": {
+        "defaultProps": {
+          "styles": {
+            "label": {
+              "fontWeight": "300"
+            }
+          }
+        }
+      },
+      "Button": {
+        "defaultProps": {
+          "fw": "300"
+        }
+      },
+      "ExportLabelComponent": {
+        "defaultProps": {
+          "fontWeight": "100"
+        }
+      },
+      "MarkdownWidgetComponent": {
+        "defaultProps": {
+          "boldFontWeight": "200",
+          "strongFontWeight": "200"
+        }
+      },
+      "ParameterLabelComponent": {
+        "defaultProps": {
+          "fontWeight": "100"
+        }
+      },
+      "Text": {
+        "defaultProps": {
+          "fw": "100",
+          "size": "sm"
+        }
+      },
+      "ViewportBranding": {
+        "defaultProps": {
+          "light": {
+            "logo": "https://assets.shapediver.com/icon/transparent/sd_icon_512x512.webp"
+          },
+          "dark": {
+            "logo": "https://assets.shapediver.com/icon/transparent/sd_icon_512x512.webp"
+          }
+        }
+      }
+    }
+  }
+}
