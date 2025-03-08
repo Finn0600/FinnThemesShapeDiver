@@ -12,11 +12,11 @@
         "#786F71",
         "#5E5768",
         "#4C4E63",
-        "#434960",
-        "#3A445D"
+        "#645840",
+        "#46362E"
       ]
     },
-    "defaultRadius": "xs",
+    "defaultRadius": "sm",
     "fontFamily": "'Work Sans', sans-serif",
     "headings": {
       "fontFamily": "'Work Sans', sans-serif",
