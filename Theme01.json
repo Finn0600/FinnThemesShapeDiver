@@ -4,16 +4,16 @@
     "primaryColor": "finnColorTheme",
     "colors": {
       "finnColorTheme": [
-        "#FCDEBE",
-        "#E8D8B2",
-        "#D4D2A5",
-        "#B3AD8F",
-        "#928779",
-        "#786F71",
-        "#5E5768",
-        "#4C4E63",
-        "#645840",
-        "#9B4B23"
+        "#D3D3D3",
+        "#B4EDEE",
+        "#D9AFD5",
+        "#D9B38F",
+        "#E26A33",
+        "#BC964B",
+        "#4E7778",
+        "#6C5198",
+        "#38794B",
+        "#31082A"
       ]
     },
     "defaultRadius": "sm",
@@ -25,15 +25,8 @@
     "white": "#FFFFFF",
     "black": "#131A2A",
     "other": {
-      "customDarkNavy": "#131A2A",
-      "customLightBeige": "#FCF8F1",
-      "customLightBlue": "#6F96D1",
-      "customTone01": "#EFF4FA",
-      "customTone02": "#D0DDF0",
-      "customTone03": "#B1C7E7",
-      "customTone04": "#92B0DD",
       "defaultFontWeight": "100",
-      "forceColorScheme": "light"
+      "forceColorScheme": "dark"
     },
     "components": {
       "Accordion": {
